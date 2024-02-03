@@ -68,13 +68,11 @@ Test Case 1: normal.robot - input1 bag
 Test Case 2: normal.robot - input2 bag
 ![image](https://github.com/khullarsanket/Differential-drive-robot-simulator-in-ROS2/assets/119709438/4d24fd0b-da2a-4d75-b118-a2265f67e641)
 
-
 Test Case 3: ideal.robot - input3 bag
 ![image](https://github.com/khullarsanket/Differential-drive-robot-simulator-in-ROS2/assets/119709438/aa5fb1f2-33c1-4bba-94a5-781d02d96dfa)
 
 Test Case 4: ideal.robot - input4 bag
 ![image](https://github.com/khullarsanket/Differential-drive-robot-simulator-in-ROS2/assets/119709438/a10512b9-45c6-47c4-8a0c-38e9cc06c3c0)
-
 
 Test Case 5: bad.robot - input4 bag
 ![image](https://github.com/khullarsanket/Differential-drive-robot-simulator-in-ROS2/assets/119709438/b45f3107-b346-408d-be76-e9db0547ff07)
